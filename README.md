@@ -37,4 +37,5 @@ My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alemanoelsilva.alemanoelsilva)
 
