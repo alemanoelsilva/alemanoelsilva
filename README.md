@@ -20,6 +20,8 @@ My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/
 [![Node.js](https://img.shields.io/badge/-Nodejs-669F64?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![Jest](https://img.shields.io/badge/-Jest-C63D14?style=for-the-badge&logo=Jest&logoColor=white&link=https://www.typescriptlang.org/)](https://jestjs.io/)
+[![Puppeteer](https://img.shields.io/badge/-Puppeteer-008967?style=for-the-badge&logo=Puppeteer)](https://pptr.dev/)
 [![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=for-the-badge&logo=NestJS&logoColor=white&link=https://nestjs.com/)](https://nestjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-58863B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/-Redis-C6302B?style=for-the-badge&logo=Redis&logoColor=white&link=https://redis.io/)](https://redis.io/)
