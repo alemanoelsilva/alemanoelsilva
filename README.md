@@ -17,25 +17,32 @@ My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/
 
 ## My daily Technologies
 
-![Node.js](https://img.shields.io/badge/-Nodejs-669F64?style=for-the-badge&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=for-the-badge&logo=NestJS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-58863B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-C6302B?style=for-the-badge&logo=Redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-039BC6?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-F7981F?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Node.js](https://img.shields.io/badge/-Nodejs-669F64?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=for-the-badge&logo=NestJS&logoColor=white&link=https://nestjs.com/)](https://nestjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-58863B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-C6302B?style=for-the-badge&logo=Redis&logoColor=white&link=https://redis.io/)](https://redis.io/)
+[![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/-Docker-039BC6?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-F7981F?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://aws.amazon.com/)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F78223?style=for-the-badge&logo=RabbitMQ&logoColor=white&link=https://www.rabbitmq.com/)](https://www.rabbitmq.com/)
 
 ## What I want and I am learning now
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3EBEB0?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-3f20ba?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3EBEB0?style=for-the-badge&logo=elasticsearch&logoColor=white&link=https://www.elastic.co/elasticsearch/)](https://www.elastic.co/elasticsearch/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://graphql.org/)](https://graphql.org/)
+[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-3f20ba?style=for-the-badge&logo=apollo-graphql&logoColor=white&link=https://www.apollographql.com/)](https://www.apollographql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white&link=https://golang.google.cn/)](https://golang.google.cn/)
+[![Python](https://img.shields.io/badge/-Python-FFD242?style=for-the-badge&logo=Python&logoColor=black&link=https://www.python.org/)](https://www.python.org/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/-Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white&link=https://www.terraform.io/)](https://www.terraform.io/)
+[![Kafka](https://img.shields.io/badge/-Kafka-005497?style=for-the-badge&logo=kafka&logoColor=white&link=https://kafka.apache.org/)](https://kafka.apache.org/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alemanoelsilva.alemanoelsilva)
 
