@@ -30,7 +30,7 @@ My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F78223?style=for-the-badge&logo=RabbitMQ&logoColor=white&link=https://www.rabbitmq.com/)](https://www.rabbitmq.com/)
 
-## What I want and I am learning now
+## What I'm learning now
 
 [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3EBEB0?style=for-the-badge&logo=elasticsearch&logoColor=white&link=https://www.elastic.co/elasticsearch/)](https://www.elastic.co/elasticsearch/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://graphql.org/)](https://graphql.org/)
