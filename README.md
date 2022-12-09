@@ -1,6 +1,6 @@
 ## Hi!! 👋
 
-My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/TypeScript** (the last 5 years) on a backend side of the force, and an obscure past working on ~Mainframe programming in COBOL~ (5 years). 
+My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/TypeScript** (the last 5 years) on a backend side of the force, and an obscure past working as ~COBOL Developer~ (5 years). 
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning DevOps and Cloud (AWS)
