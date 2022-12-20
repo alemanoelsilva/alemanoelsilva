@@ -1,6 +1,12 @@
 ## Hi!! 👋
 
-My name is Alexandre, I'm a Software Engineer, working mostly with **JavaScript/TypeScript** (the last 5 years) on a backend side of the force, and an obscure past working as ~COBOL Developer~ (5 years). 
+Hello and welcome to my profile! My name is Alexandre and I am a software developer with experience in Node.js, JavaScript/TypeScript, and microservices.
+
+I have a strong background in web development and am skilled in using various frameworks and technologies to build high-quality, scalable applications. In particular, I have experience working with AWS and have a strong understanding of clean code principles.
+
+I am a highly motivated and detail-oriented individual, with a passion for solving complex problems and creating intuitive, user-friendly solutions. I am always looking for new ways to improve my skills and stay up-to-date with the latest developments in the field.
+
+Thank you for taking the time to visit my profile. I hope you find it helpful and informative, and I look forward to connecting with you and discussing potential opportunities.
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning DevOps and Cloud (AWS)
