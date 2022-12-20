@@ -6,8 +6,6 @@ I have a strong background in web development and am skilled in using various fr
 
 I am a highly motivated and detail-oriented individual, with a passion for solving complex problems and creating intuitive, user-friendly solutions. I am always looking for new ways to improve my skills and stay up-to-date with the latest developments in the field.
 
-Thank you for taking the time to visit my profile. I hope you find it helpful and informative, and I look forward to connecting with you and discussing potential opportunities.
-
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning DevOps and Cloud (AWS)
 - 💬 Ask me about everything
@@ -51,6 +49,9 @@ Thank you for taking the time to visit my profile. I hope you find it helpful an
 [![Terraform](https://img.shields.io/badge/-Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white&link=https://www.terraform.io/)](https://www.terraform.io/)
 [![Kafka](https://img.shields.io/badge/-Kafka-005497?style=for-the-badge&logo=kafka&logoColor=white&link=https://kafka.apache.org/)](https://kafka.apache.org/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
+
+
+Thank you for taking the time to visit my profile. I hope you find it helpful and informative, and I look forward to connecting with you and discussing potential opportunities.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alemanoelsilva.alemanoelsilva)
