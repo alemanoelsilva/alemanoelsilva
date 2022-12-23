@@ -12,14 +12,14 @@ I am a highly motivated and detail-oriented individual, with a passion for solvi
 - 📫 Email me at alemanoelsilva@pm.me
 - ⚡ Fun fact: a Brazilian **Liverpool** fan
 
-## Reach me out
+## Reach out to me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alemanoelsilva/)](https://www.linkedin.com/in/alemanoelsilva/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/alemanoelsilva)](https://twitter.com/alemanoelsilva)
 [![Proton Mail Badge](https://img.shields.io/badge/-proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alemanoelsilva@pm.me)
 [![Strava Badge](https://img.shields.io/badge/-Strava-ff4f00?style=for-the-badge&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/30783440)](https://www.strava.com/athletes/30783440)
 
-## My daily Technologies
+## Daily Technologies
 
 [![Node.js](https://img.shields.io/badge/-Nodejs-669F64?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
