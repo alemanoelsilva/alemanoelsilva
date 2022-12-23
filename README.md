@@ -53,6 +53,11 @@ I am a highly motivated and detail-oriented individual, with a passion for solvi
 
 Thank you for taking the time to visit my profile. I hope you find it helpful and informative, and I look forward to connecting with you and discussing potential opportunities.
 
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alemanoelsilva&show_icons=true&locale=en&layout=compact&title_color=ff4f00&icon_color=ff4f00)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alemanoelsilva&show_icons=true&locale=en&layout=compact&title_color=ff4f00&icon_color=ff4f00)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alemanoelsilva.alemanoelsilva)
 
