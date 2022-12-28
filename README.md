@@ -1,10 +1,6 @@
 ## Hi!! 👋
 
-Hello and welcome to my profile! My name is Alexandre and I am a software developer with experience in Node.js, JavaScript/TypeScript, and microservices.
-
-I have a strong background in web development and am skilled in using various frameworks and technologies to build high-quality, scalable applications. In particular, I have experience working with AWS and have a strong understanding of clean code principles.
-
-I am a highly motivated and detail-oriented individual, with a passion for solving complex problems and creating intuitive, user-friendly solutions. I am always looking for new ways to improve my skills and stay up-to-date with the latest developments in the field.
+Hello, my name is Alexandre and I am a software developer with experience in a variety of technologies and practices. My expertise includes Javascript and Typescript, as well as working with microservices and serverless architectures. I am also proficient in using tools and services such as AWS, RabbitMQ, MongoDB, and Docker. In addition to my technical skills, I am also committed to writing clean, well-tested code and following clean architecture principles. I am excited to share my knowledge and experience with others and am always looking for opportunities to learn and grow as a developer.
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning DevOps and Cloud (AWS)
