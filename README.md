@@ -1,6 +1,10 @@
 ## Hi!! 👋
 
-Hello, my name is Alexandre and I am a software developer with experience in a variety of technologies and practices. My expertise includes Javascript and Typescript, as well as working with microservices and serverless architectures. I am also proficient in using tools and services such as AWS, RabbitMQ, MongoDB, and Docker. In addition to my technical skills, I am also committed to writing clean, well-tested code and following clean architecture principles. I am excited to share my knowledge and experience with others and am always looking for opportunities to learn and grow as a developer.
+Hello, my name is Alexandre and I am a software developer with experience in a variety of technologies and practices. My expertise includes Javascript and Typescript, as well as working with microservices and serverless architectures. 
+
+I am also proficient in using tools and services such as AWS, RabbitMQ, MongoDB, and Docker. In addition to my technical skills, I am also committed to writing clean, well-tested code and following clean architecture principles. 
+
+I am excited to share my knowledge and experience with others and am always looking for opportunities to learn and grow as a developer.
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning DevOps and Cloud (AWS)
