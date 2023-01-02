@@ -55,8 +55,6 @@ Thank you for taking the time to visit my profile. I hope you find it helpful an
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alemanoelsilva&show_icons=true&locale=en&layout=compact&title_color=ff4f00&icon_color=ff4f00)
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alemanoelsilva&show_icons=true&locale=en&layout=compact&title_color=ff4f00&icon_color=ff4f00)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alemanoelsilva.alemanoelsilva&left_color=orange&right_color=black)
