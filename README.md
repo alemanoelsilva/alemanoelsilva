@@ -7,7 +7,7 @@ I am also proficient in using tools and services such as AWS, RabbitMQ, MongoDB,
 I am excited to share my knowledge and experience with others and am always looking for opportunities to learn and grow as a developer.
 
 - 🔭 I’m currently working as Node.js Developer
-- 🌱 I’m currently learning DevOps and Cloud (AWS)
+- 🌱 I’m currently learning Go lang and Cloud (GCP)
 - 💬 Ask me about everything
 - 📫 Email me at alemanoelsilva@pm.me
 - ⚡ Fun fact: a Brazilian **Liverpool** fan
