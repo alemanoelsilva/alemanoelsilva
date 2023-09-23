@@ -35,6 +35,8 @@ I am excited to share my knowledge and experience with others and am always look
 [![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-F78223?style=for-the-badge&logo=RabbitMQ&logoColor=white&link=https://www.rabbitmq.com/)](https://www.rabbitmq.com/)
+[![tRPC](https://img.shields.io/badge/-tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white&link=https://trpc.io/)](https://trpc.io/)
+
 
 ## What I'm learning now
 
