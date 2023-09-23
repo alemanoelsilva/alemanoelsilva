@@ -50,6 +50,7 @@ I am excited to share my knowledge and experience with others and am always look
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/-Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white&link=https://www.terraform.io/)](https://www.terraform.io/)
 [![Kafka](https://img.shields.io/badge/-Kafka-005497?style=for-the-badge&logo=kafka&logoColor=white&link=https://kafka.apache.org/)](https://kafka.apache.org/)
+[![GCP](https://img.shields.io/badge/-GCP-F6B907?style=for-the-badge&logo=google-cloud&logoColor=black&link=https://cloud.google.com/)](https://cloud.google.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 
 
