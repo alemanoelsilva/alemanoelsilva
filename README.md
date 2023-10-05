@@ -41,17 +41,21 @@ I am excited to share my knowledge and experience with others and am always look
 
 ## What I'm learning now
 
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3EBEB0?style=for-the-badge&logo=elasticsearch&logoColor=white&link=https://www.elastic.co/elasticsearch/)](https://www.elastic.co/elasticsearch/)
+[![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white&link=https://golang.google.cn/)](https://golang.google.cn/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
+[![GCP](https://img.shields.io/badge/-GCP-F6B907?style=for-the-badge&logo=google-cloud&logoColor=black&link=https://cloud.google.com/)](https://cloud.google.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://graphql.org/)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-3f20ba?style=for-the-badge&logo=apollo-graphql&logoColor=white&link=https://www.apollographql.com/)](https://www.apollographql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
-[![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&link=https://neo4j.com/)](https://neo4j.com/)
-[![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white&link=https://golang.google.cn/)](https://golang.google.cn/)
-[![Python](https://img.shields.io/badge/-Python-FFD242?style=for-the-badge&logo=Python&logoColor=black&link=https://www.python.org/)](https://www.python.org/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)
+
+
+## What I want to learn
+
 [![Terraform](https://img.shields.io/badge/-Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white&link=https://www.terraform.io/)](https://www.terraform.io/)
 [![Kafka](https://img.shields.io/badge/-Kafka-005497?style=for-the-badge&logo=kafka&logoColor=white&link=https://kafka.apache.org/)](https://kafka.apache.org/)
-[![GCP](https://img.shields.io/badge/-GCP-F6B907?style=for-the-badge&logo=google-cloud&logoColor=black&link=https://cloud.google.com/)](https://cloud.google.com/)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3EBEB0?style=for-the-badge&logo=elasticsearch&logoColor=white&link=https://www.elastic.co/elasticsearch/)](https://www.elastic.co/elasticsearch/)
+[![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&link=https://neo4j.com/)](https://neo4j.com/)
+[![Python](https://img.shields.io/badge/-Python-FFD242?style=for-the-badge&logo=Python&logoColor=black&link=https://www.python.org/)](https://www.python.org/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 
 
