@@ -11,7 +11,7 @@ I am excited to share my knowledge and experience with others and am always look
 - 💬 Ask me about everything
 - 📫 Email me at alemanoelsilva@pm.me
 - ⚡ Fun fact: a Brazilian **Liverpool** fan
-- 👨🏼‍💻 That's my [Advent of Code](https://github.com/alemanoelsilva/advent-of-code) Repo
+- 👨🏼‍💻 That's my [Advent of Code](https://github.com/alemanoelsilva/advent-of-code)
 
 ## Reach out to me
 
