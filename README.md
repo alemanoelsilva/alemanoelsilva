@@ -1,10 +1,10 @@
 ## Hi!! 👋
 
-Hello, my name is Alexandre and I am a software developer with experience in a variety of technologies and practices. My expertise includes Javascript and Typescript, as well as working with microservices and serverless architectures. 
+Greetings! I'm a passionate software engineer specializing in backend development, with a keen focus on the Node.js ecosystem. At present, I'm deeply engrossed in an exhilarating project, where I'm (with my team) building diverse modules within an internal application. Leveraging cutting-edge technologies such as NestJS, Fastify, and tRPC in the backend side.
 
-I am also proficient in using tools and services such as AWS, RabbitMQ, MongoDB, and Docker. In addition to my technical skills, I am also committed to writing clean, well-tested code and following clean architecture principles. 
+In my toolkit, you'll find an array of technologies, including Docker, Kubernetes, MongoDB, MySQL, Redis, RabbitMQ, AWS services. My proficiency in these tools allows me to architect scalable and resilient systems that meet the demands of modern applications.
 
-I am excited to share my knowledge and experience with others and I'm always looking for opportunities to learn and grow as a developer.
+Currently, I'm broadening my horizons by delving into Go lang and expanding my expertise in Google Cloud Platform (GCP). I'm excited about the endless possibilities that these technologies offer and look forward to leveraging them to create innovative solutions.
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning Go lang and Cloud (GCP)
