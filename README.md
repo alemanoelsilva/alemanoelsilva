@@ -4,7 +4,7 @@ Greetings! I'm a passionate software engineer specializing in backend developmen
 
 In my toolkit, you'll find an array of technologies, including Docker, Kubernetes, MongoDB, MySQL, Redis, RabbitMQ, AWS services. My proficiency in these tools allows me to architect scalable and resilient systems that meet the demands of modern applications.
 
-Currently, I'm broadening my horizons by delving into Go lang and expanding my expertise in Google Cloud Platform (GCP). I'm excited about the endless possibilities that these technologies offer and look forward to leveraging them to create innovative solutions.
+Currently, I'm broadening my horizons by delving into **Go lang** and expanding my expertise in **Google Cloud Platform** (GCP). I'm excited about the endless possibilities that these technologies offer and look forward to leveraging them to create innovative solutions.
 
 - 🔭 I’m currently working as Node.js Developer
 - 🌱 I’m currently learning Go lang and Cloud (GCP)
