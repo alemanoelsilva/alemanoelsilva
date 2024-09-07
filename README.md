@@ -13,6 +13,8 @@ Currently, I'm broadening my horizons by delving into **Go lang** and expanding 
 - ⚡ Fun fact: a Brazilian **Liverpool** fan
 - 👨🏼‍💻 That's my [Advent of Code](https://github.com/alemanoelsilva/advent-of-code)
 
+— 🎶 I only wanted to be part of something
+
 ## Reach out to me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alemanoelsilva/)](https://www.linkedin.com/in/alemanoelsilva/)
