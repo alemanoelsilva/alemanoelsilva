@@ -12,8 +12,7 @@ Currently, I'm broadening my horizons by delving into **Go lang** and expanding 
 - 📫 Email me at alemanoelsilva@pm.me
 - ⚡ Fun fact: a Brazilian **Liverpool** fan
 - 👨🏼‍💻 That's my [Advent of Code](https://github.com/alemanoelsilva/advent-of-code)
-
-— 🎶 I only wanted to be part of something
+- 🎶 I only wanted to be part of something
 
 ## Reach out to me
 
