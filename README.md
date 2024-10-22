@@ -43,6 +43,7 @@ Currently, I'm broadening my horizons by delving into **Go lang** and expanding 
 ## What I'm learning now
 
 [![Go Lang](https://img.shields.io/badge/-Go%20Lang-2DBCAF?style=for-the-badge&logo=go&logoColor=white&link=https://golang.google.cn/)](https://golang.google.cn/)
+[![HTMX](https://img.shields.io/badge/-HTMX-#3c71d7?style=for-the-badge&logo=htmx&logoColor=white&link=https://htmx.org/)(https://htmx.org/)
 [![GCP](https://img.shields.io/badge/-GCP-F6B907?style=for-the-badge&logo=google-cloud&logoColor=black&link=https://cloud.google.com/)](https://cloud.google.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://graphql.org/)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-3f20ba?style=for-the-badge&logo=apollo-graphql&logoColor=white&link=https://www.apollographql.com/)](https://www.apollographql.com/)
